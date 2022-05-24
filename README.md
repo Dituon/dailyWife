@@ -26,6 +26,9 @@
 
 ## 图片预览
 
+<details>
+<summary>展开/收起</summary>
+
 ![image](img/0.png)
 
 ![image](img/1.png)
@@ -37,3 +40,36 @@
 ![image](img/4.png)
 
 ![image](img/5.png)
+
+</details>
+
+## 贴图来源
+
+**如有侵权，请联系我删除**
+
+**If I violate your rights, please contact me to delete**
+
+**私があなたの権利を侵害した場合は、削除するために私に連絡してください**
+
+<details>
+<summary>展开/收起</summary>
+
+[twitter](https://twitter.com/emp04510/status/1473986440216596485)
+
+[twitter](https://twitter.com/arainekozz/status/1476712204812488706)
+
+[twitter](https://twitter.com/iori_to1/status/1476079146958979075)
+
+[twitter](https://twitter.com/noplan_kuroma/status/1465317134473449480)
+
+[twitter](https://twitter.com/aoihawaii/status/1513088061105930240)
+
+[twitter](https://twitter.com/traim_kb/status/1471127974032609281)
+
+[twitter](https://twitter.com/mamiya_mao/status/1415593570262609920)
+
+[twitter](https://twitter.com/mamiya_mao/status/1415203439986892802)
+
+[booth.pm](https://booth.pm/ja/items/3105893)
+
+</details>
